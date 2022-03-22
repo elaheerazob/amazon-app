@@ -1,0 +1,16 @@
+.main-header{
+    background-color: rgb(71, 71, 69);
+    padding: 0 140px;
+}
+.header-nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+    
+}
+.header-nav a{
+    text-decoration: none;
+    color: #fff;
+    margin-left: 5ex;
+}
